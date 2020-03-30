@@ -23,7 +23,7 @@ func main()  {
 		switch a {
 		case 'S': calcSquare()
 		case 'T': calcTriangle()
-		case 'C':	calcCircle()
+		case 'C': calcCircle()
 		case 'E': 
 		default: fmt.Println("Invalid option. Try again.")
 		}
